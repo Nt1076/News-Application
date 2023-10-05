@@ -1,16 +1,7 @@
-# newsapp
+# News Application
 
-A new Flutter project.
+📜📜📜The purpose of the project is to develop an application which will display news articles and videos verified and approved at backend .User can browse news articles and videos through various categories. App will enable user to view news details, images, and video .Users can also bookmark any news article/video for future use.
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Welcome Page](https://github.com/Nt1076/News-Application/assets/96333085/0f7ed250-665b-4202-9994-24a986abf094)
